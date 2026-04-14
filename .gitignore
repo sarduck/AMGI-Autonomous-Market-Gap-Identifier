@@ -1,0 +1,14 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+
+# Local Vector Database
+market_research/
+model_test/
+chroma.sqlite3
+
+# API Keys and Secrets
+.env
+
+# Mac System Files
+.DS_Store
